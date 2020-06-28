@@ -1,4 +1,4 @@
-######  说明  ######
+#####  说明  ######
 # 1、Fork 本仓库
 # 2、在你 Fork 的本仓库下的 Settings > Secrets 画面追加以下几个 secret 变量：
 # FREENOM_USERNAME、FREENOM_PASSWORD、MULTIPLE_ACCOUNTS、MAIL_USERNAME、MAIL_PASSWORD、TO、MAIL_ENABLE、TELEGRAM_CHAT_ID、
